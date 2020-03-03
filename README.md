@@ -13,3 +13,5 @@ jupyter notebook
 ```
 
 Execute the first two cells to setup the theme and apply customizations.
+
+Note: run `./clear-outputs.sh` to clear all the previous outputs before the actual demo.
