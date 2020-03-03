@@ -1,5 +1,7 @@
 # ika-demo
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scikit-ika/demo/master?filepath=demo.ipynb)
+
 ### Requirements
 
 * Python &ge; 3.7
