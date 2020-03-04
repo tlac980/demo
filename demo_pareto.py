@@ -280,10 +280,10 @@ class DemoPareto():
     
 ########## TEST #########
 
-demo = DemoPareto()
-
-demo.plot_data()
-
-demo.draw_pareto()
-
-demo.draw_knee()
+#demo = DemoPareto()
+#
+#demo.plot_data()
+#
+#demo.draw_pareto()
+#
+#demo.draw_knee()
