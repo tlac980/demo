@@ -1,6 +1,13 @@
 numpy
-matplotlibpandaskneed
+
+matplotlib
+pandas
+kneed
+
 jupyter
+
 jupyterthemes
+
 RISE
+
 jupyter_contrib_nbextensions
