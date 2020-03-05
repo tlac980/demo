@@ -50,7 +50,7 @@ class DemoPareto():
         
         plt.title('Pareto front')
         plt.xlabel('Kappa')
-        plt.ylabel('RAM hours')
+        plt.ylabel('RAM per hour')
         xmin, xmax, ymin, ymax = plt.axis()
         plt.show()
 
@@ -84,7 +84,7 @@ class DemoPareto():
         plt.title('Pareto front')
         plt.plot(x_pareto, y_pareto, color='r')
         plt.xlabel('Kappa')
-        plt.ylabel('RAM hours')
+        plt.ylabel('RAM per hour')
         xmin, xmax, ymin, ymax = plt.axis()
         plt.show()
         
@@ -147,7 +147,7 @@ class DemoPareto():
         plt.title('Pareto front')
         plt.plot(x_pareto, y_pareto, color='r')
         plt.xlabel('Kappa')
-        plt.ylabel('RAM hours')
+        plt.ylabel('RAM per hour')
         xmin, xmax, ymin, ymax = plt.axis()
         plt.vlines(kn.knee, plt.ylim()[0], plt.ylim()[1], linestyles='dashed')
         plt.show()
