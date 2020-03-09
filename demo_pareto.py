@@ -31,7 +31,7 @@ class DemoPareto():
                    [0.8701275,0.0589905],
                    [0.8543425,0.0579445],
                    [0.8671825,0.071308]]),
-                 names = ['ARF65','ARF70','ARD75','ARF80','ARF85','ARF90','ARF95','ARF100','ARF105','ARF110','ARF115','ARF120','ARF125','ARF130'],
+                 names = ['ARF65','ARF70','ARF75','ARF80','ARF85','ARF90','ARF95','ARF100','ARF105','ARF110','ARF115','ARF120','ARF125','ARF130'],
                  perc_redund = [0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]):
         
         self.score = score
